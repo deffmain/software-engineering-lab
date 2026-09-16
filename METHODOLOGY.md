@@ -42,6 +42,17 @@ A pergunta principal deve ser:
 
 ---
 
+### Princípio da relevância
+
+Os estudos devem ser escolhidos com base em três critérios principais:
+
+* **Valor de engenharia:** o estudo deve desenvolver uma competência relevante para a prática de Engenharia de Software.
+* **Valor de portfólio:** sempre que possível, o estudo deve produzir artefatos que demonstrem capacidade técnica e raciocínio de engenharia.
+* **Progressão:** o estudo deve considerar o conhecimento e as lacunas identificadas anteriormente, evitando tanto saltos prematuros de complexidade quanto exercícios excessivamente repetitivos.
+
+Os estudos não devem ser definidos apenas pela popularidade de uma tecnologia ou pela necessidade de cobrir uma lista de ferramentas. Tecnologias podem ser introduzidas quando forem adequadas ao problema e contribuírem para os objetivos de engenharia do estudo.
+
+
 ## 2.2 Raciocínio antes da resposta
 
 O estudante deve tentar formular uma solução antes de receber uma solução pronta.
@@ -91,6 +102,27 @@ Problema → pouca orientação → solução autônoma
 ```
 
 O laboratório deve medir não apenas se o estudante consegue chegar a uma resposta, mas **quanto auxílio foi necessário para chegar até ela**.
+
+## Progressão Adaptativa dos Estudos
+
+A sequência de estudos não será completamente pré-definida.
+
+O laboratório possui uma direção geral de evolução, mas o conteúdo e a complexidade dos estudos seguintes devem considerar:
+
+* desempenho no estudo anterior;
+* lacunas identificadas;
+* dificuldades recorrentes;
+* competências que ainda não foram demonstradas;
+* oportunidades de aplicar conhecimentos anteriores em novos contextos.
+
+O fluxo esperado é:
+
+**Estudo → Avaliação → Lacunas → Próximo estudo**
+
+Dessa forma, a progressão não representa apenas avanço de conteúdo, mas evolução efetiva da capacidade de engenharia.
+
+A complexidade deve aumentar gradualmente. Um estudo pode permanecer em um nível semelhante ao anterior quando isso for necessário para consolidar uma competência ou corrigir uma lacuna.
+
 
 ---
 
@@ -666,6 +698,21 @@ A recuperação deve ser direcionada à lacuna encontrada.
 # 22. Tipos de Estudo
 
 O laboratório utilizará diferentes tipos de estudos.
+
+### Problemas como unidade de estudo
+
+Sempre que possível, o estudo deve partir de um problema ou situação concreta, e não de um conceito isolado.
+
+Conceitos clássicos e atuais de Engenharia de Software podem ser introduzidos como instrumentos necessários para compreender, resolver, avaliar ou evoluir o problema.
+
+A tecnologia não deve ser o objetivo principal do estudo quando não for necessária para responder ao problema proposto.
+
+A sequência preferencial é:
+
+**Problema → Necessidade → Conceitos → Hipóteses → Solução → Avaliação → Evolução**
+
+Essa abordagem permite que conceitos clássicos permaneçam relevantes e que tecnologias contemporâneas sejam estudadas dentro de contextos de engenharia reais.
+
 
 ## 22.1 Estudo Conceitual
 
